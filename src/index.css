@@ -42,3 +42,20 @@ button:hover {
 .content {
   text-align: left;
 }
+
+.card {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  background-color: #1b1b1b;
+  border-radius: 20px;
+}
+
+.card h3 {
+  color: #ffff47;
+  margin: 10px 0;
+}
+
+.card p {
+  color: #999;
+  margin: 6px 0;
+}
